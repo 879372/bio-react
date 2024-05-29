@@ -1,0 +1,16 @@
+.bnt {
+    background-color: hsl(0, 0%, 20%);
+    color: #ffffff;
+}
+
+.bnt:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: #000000;
+    transition: 0.3s;
+}
+
+.bnts {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

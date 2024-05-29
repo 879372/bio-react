@@ -1,0 +1,19 @@
+.text {
+    margin-top: 5px;
+    color: white;
+}
+
+.city{
+    color:hsl(75, 94%, 57%);
+}
+
+.text h3{
+    margin: 5px;
+    font-size: 20px;
+}
+
+.text p{
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
